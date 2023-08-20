@@ -2,6 +2,8 @@
 
 Mood Flow, duygusal durumunuzu ifade etmek ve içsel dengeyi bulmak için tasarlanmış interaktif bir uygulamadır. Seçtiğiniz emoji ile anlık ruh halinizi ifade edebilir, size özel önerilen aktiviteler ve tavsiyelerle olumlu bir deneyim yaşayabilirsiniz.
 
+Mood Flow is an interactive application designed to express your emotional state and find inner balance. You can express your mood instantly with the emoji of your choice and have a positive experience with activities and recommendations tailored to you.
+
 ## Özellikler
 
 - Emoji seçerek duygusal durumunuzu ifade edebilirsiniz.
