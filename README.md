@@ -16,10 +16,3 @@ MoodFlow, duygusal durumunuzu ifade etmek ve içsel dengeyi bulmak için tasarla
 2. Anlık ruh halinizi yansıtan bir emoji seçin.
 3. Seçtiğiniz emojiye göre size önerilen aktiviteler ve tavsiyeleri görüntüleyin.
 4. İçsel dengeyi bulmak ve olumlu bir deneyim yaşamak için önerilen aktiviteleri deneyin.
-
-## Kullanım
-
-1. Projeyi klonlayın:
-
-```bash
-git clone https://github.com/your-username/moodflow.git
