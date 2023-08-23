@@ -13,7 +13,7 @@ import "./App.css";
 import { Helmet } from "react-helmet";
 
 function App() {
-  const siteTitle = "Mood Flow";
+  const siteTitle = "Mood Emoji";
   const { selectedEmoji } = useStore();
   const [showFeedbackForm, setShowFeedbackForm] = useState(false);
   const [showThankYou, setShowThankYou] = useState(false);

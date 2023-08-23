@@ -4,17 +4,17 @@ function Footer() {
   return (
     <footer className="mt-8 text-gray-300 text-center">
       <p className="text-white max-sm:text-[13px] text-center text-md max-sm:px-5 px-32 mb-2 opacity-60 max-sm:hidden">
-        <span className="font-bold">Mood Flow</span> Nedir ? <br /> Duygusal
+        <span className="font-bold">Mood Emoji</span> Nedir ? <br /> Duygusal
         durumunuzu ifade etmek ve içsel dengeyi bulmak için özel olarak
         tasarlanmış bir uygulamadır. Siz sadece bir emoji seçin, gerisini Mood
-        Flow'a bırakın. Her emojiye özel önerilen aktiviteler ve tavsiyeler ile
+        Emoji'e bırakın. Her emojiye özel önerilen aktiviteler ve tavsiyeler ile
         anlık ruh halinizi daha iyi anlayacak ve olumlu bir deneyim
-        yaşayacaksınız. Mood Flow ile duygusal dünyanıza yolculuk yapın ve her
+        yaşayacaksınız. Mood Emoji ile duygusal dünyanıza yolculuk yapın ve her
         gün daha iyi hissedin.
       </p>
       <p className="w-screen max-sm:text-[13px] flex items-center justify-center text-white p-3 bg-gradient-to-r from-violet-400 to-violet-600">
         <span className="font-normal mr-1">
-          Mood Flow made with 🍦 by Mustafa KARAÇUHA
+          Mood Emoji made with 🍦 by Mustafa KARAÇUHA
         </span>
         <span className="mr-2">© {new Date().getFullYear()}</span> |
         <p className="ml-2 flex gap-3">

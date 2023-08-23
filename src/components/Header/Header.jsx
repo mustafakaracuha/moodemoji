@@ -22,10 +22,10 @@ function Header() {
       <p className="text-[30px] font-bold">M</p>
       <img
         src={logoImages[currentLogoIndex]}
-        alt="Mood Flow Logo"
+        alt="Mood Emoji Logo"
         className="w-14 h-14 relative top-[14px] max-sm:top-[19px] left-1"
       />
-      <p className="text-[30px] ml-2 font-bold">d Flow</p>
+      <p className="text-[30px] ml-2 font-bold">d Emoji</p>
     </header>
   );
 }
