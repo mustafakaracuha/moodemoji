@@ -20,7 +20,7 @@ MoodFlow, duygusal durumunuzu ifade etmek ve içsel dengeyi bulmak için tasarla
 
 ## Uygulama Hakkında Görüş ve Öneri Yazın
 
-<img width="300px" src="https://github.com/mustafakaracuha/moodflow/blob/main/src/assets/feedback.png" />
+<img width="450px" src="https://github.com/mustafakaracuha/moodflow/blob/main/src/assets/feedback.png" />
 
 ## Lisans
 
