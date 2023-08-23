@@ -5,7 +5,7 @@ import Header from "../src/components/Header/Header";
 import Footer from "../src/components/Footer/Footer";
 import EmojiList from "../src/components/EmojiList/EmojiList";
 import SelectedEmoji from "../src/components/SelectedEmoji/SelectedEmoji";
-import FeedbackButton from "../src/components/Button/FeedBackButton/FeedbackButton";
+import FeedbackButton from "../src/components/Button/FeedBackButton/FeedBackButton";
 import FeedbackForm from "../src/components/FeedbackForm/FeedbackForm";
 import ThankYouMessage from "../src/components/ThankYouMessage/ThankYouMessage";
 import "./App.css";
