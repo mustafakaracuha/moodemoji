@@ -18,6 +18,11 @@ MoodFlow, duygusal durumunuzu ifade etmek ve içsel dengeyi bulmak için tasarla
 3. Seçtiğiniz emojiye göre size önerilen aktiviteler ve tavsiyeleri görüntüleyin.
 4. İçsel dengeyi bulmak ve olumlu bir deneyim yaşamak için önerilen aktiviteleri deneyin.
 
+## Uygulama Görüntüsü
+
+![MoodFlow Screenshot](https://github.com/mustafakaracuha/moodflow/blob/main/src/assets/appScreenshot.png)
+
+
 ## Lisans
 
 Bu proje [MIT lisansı](LICENSE) altında lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasını inceleyebilirsiniz.
