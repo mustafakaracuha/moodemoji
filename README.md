@@ -2,7 +2,7 @@
 
 moodEmoji, duygusal durumunuzu ifade etmek ve içsel dengeyi bulmak için tasarlanmış bir emoji tabanlı uygulamadır. moodEmoji ile anlık ruh halinizi yansıtan bir emoji seçebilirsiniz, ardından size önerilen aktiviteler ve tavsiyelerle daha olumlu bir deneyim yaşayabilirsiniz.
 
-![MoodEmoji Screenshot](https://github.com/mustafakaracuha/moodflow/blob/main/src/assets/appLogo.png)
+![MoodEmoji Screenshot](https://github.com/mustafakaracuha/moodemoji/blob/main/src/assets/appLogo.png)
 
 
 ## Özellikler
@@ -20,7 +20,7 @@ moodEmoji, duygusal durumunuzu ifade etmek ve içsel dengeyi bulmak için tasarl
 
 ## Uygulama Görüntüsü
 
-![MoodEmoji Screenshot](https://github.com/mustafakaracuha/moodflow/blob/main/src/assets/appScreenshot.png)
+![MoodEmoji Screenshot](https://github.com/mustafakaracuha/moodemoji/blob/main/src/assets/appScreenshot.png)
 
 ## İncelemek için Hemen Tıkla
 
