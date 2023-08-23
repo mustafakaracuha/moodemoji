@@ -8,6 +8,7 @@
 body {
   background-color: #f0e8ff;
   font-family: 'Rubik', sans-serif;
+  overflow-x: hidden !important;
 }
 
 @keyframes fade-in {
