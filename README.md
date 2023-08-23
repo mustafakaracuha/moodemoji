@@ -24,7 +24,7 @@ moodEmoji, duygusal durumunuzu ifade etmek ve içsel dengeyi bulmak için tasarl
 
 ## İncelemek için Hemen Tıkla
 
-https://moodflow.vercel.app/
+https://moodemoji.vercel.app/
 
 ## Lisans
 
