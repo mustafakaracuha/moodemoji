@@ -1,8 +1,8 @@
-# MoodFlow
+# MoodEmoji
 
-MoodFlow, duygusal durumunuzu ifade etmek ve içsel dengeyi bulmak için tasarlanmış bir emoji tabanlı uygulamadır. MoodFlow ile anlık ruh halinizi yansıtan bir emoji seçebilirsiniz, ardından size önerilen aktiviteler ve tavsiyelerle daha olumlu bir deneyim yaşayabilirsiniz.
+moodEmoji, duygusal durumunuzu ifade etmek ve içsel dengeyi bulmak için tasarlanmış bir emoji tabanlı uygulamadır. moodEmoji ile anlık ruh halinizi yansıtan bir emoji seçebilirsiniz, ardından size önerilen aktiviteler ve tavsiyelerle daha olumlu bir deneyim yaşayabilirsiniz.
 
-![MoodFlow Screenshot](https://github.com/mustafakaracuha/moodflow/blob/main/src/assets/appLogo.png)
+![MoodEmoji Screenshot](https://github.com/mustafakaracuha/moodflow/blob/main/src/assets/appLogo.png)
 
 
 ## Özellikler
@@ -20,7 +20,7 @@ MoodFlow, duygusal durumunuzu ifade etmek ve içsel dengeyi bulmak için tasarla
 
 ## Uygulama Görüntüsü
 
-![MoodFlow Screenshot](https://github.com/mustafakaracuha/moodflow/blob/main/src/assets/appScreenshot.png)
+![MoodEmoji Screenshot](https://github.com/mustafakaracuha/moodflow/blob/main/src/assets/appScreenshot.png)
 
 ## İncelemek için Hemen Tıkla
 
