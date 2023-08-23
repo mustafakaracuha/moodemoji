@@ -4,6 +4,7 @@ MoodFlow, duygusal durumunuzu ifade etmek ve içsel dengeyi bulmak için tasarla
 
 ![MoodFlow Screenshot](https://github.com/mustafakaracuha/moodflow/blob/main/src/assets/appLogo.png)
 
+
 ## Özellikler
 
 - Emoji seçimi: Duygusal durumunuzu en iyi yansıtan emojileri seçebilirsiniz.
@@ -20,6 +21,7 @@ MoodFlow, duygusal durumunuzu ifade etmek ve içsel dengeyi bulmak için tasarla
 ## Uygulama Hakkında Görüş ve Öneri Yazın
 
 ![MoodFlow Screenshot](https://github.com/mustafakaracuha/moodflow/blob/main/src/assets/feedback.png)
+<img width="100px" src="https://github.com/mustafakaracuha/moodflow/blob/main/src/assets/feedback.png" />
 
 ## Lisans
 
