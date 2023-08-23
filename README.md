@@ -24,7 +24,7 @@ MoodFlow, duygusal durumunuzu ifade etmek ve içsel dengeyi bulmak için tasarla
 
 ## İncelemek için Hemen Tıkla
 
-![MoodFlow Screenshot](https://github.com/mustafakaracuha/moodflow/blob/main/src/assets/appScreenshot.png)
+![MoodFlow](https://moodflow.vercel.app/)
 
 ## Lisans
 
