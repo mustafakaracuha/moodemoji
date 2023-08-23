@@ -24,7 +24,7 @@ MoodFlow, duygusal durumunuzu ifade etmek ve içsel dengeyi bulmak için tasarla
 
 ## İncelemek için Hemen Tıkla
 
-![MoodFlow](https://moodflow.vercel.app/)
+https://moodflow.vercel.app/
 
 ## Lisans
 
