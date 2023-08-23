@@ -7,9 +7,11 @@ const useStore = create(
     (set) => ({
       selectedEmoji: "",
       setSelectedEmoji: (emoji) => set({ selectedEmoji: emoji }),
+      
       moodEntries: [],
       addMoodEntry: (entry) =>
         set((state) => ({ moodEntries: [...state.moodEntries, entry] })),
+
       getAdviceForEmoji: (emoji) => {
         if (emoji in activities) {
           const randomIndex = Math.floor(
