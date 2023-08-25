@@ -1,6 +1,6 @@
-# MoodEmoji
+# Mood Emoji
 
-moodEmoji, duygusal durumunuzu ifade etmek ve içsel dengeyi bulmak için tasarlanmış bir emoji tabanlı uygulamadır. moodEmoji ile anlık ruh halinizi yansıtan bir emoji seçebilirsiniz, ardından size önerilen aktiviteler ve tavsiyelerle daha olumlu bir deneyim yaşayabilirsiniz.
+Mood Emoji, duygusal durumunuzu ifade etmek ve içsel dengeyi bulmak için tasarlanmış bir emoji tabanlı uygulamadır. moodEmoji ile anlık ruh halinizi yansıtan bir emoji seçebilirsiniz, ardından size önerilen aktiviteler ve tavsiyelerle daha olumlu bir deneyim yaşayabilirsiniz.
 
 ![MoodEmoji Screenshot](https://github.com/mustafakaracuha/moodemoji/blob/main/src/assets/appLogo.png)
 
@@ -24,7 +24,7 @@ moodEmoji, duygusal durumunuzu ifade etmek ve içsel dengeyi bulmak için tasarl
 
 ## İncelemek için Hemen Tıkla
 
-https://moodemoji.vercel.app/
+[Uygulama Linki](https://moodemoji.vercel.app/)
 
 ## Lisans
 
