@@ -13,19 +13,18 @@ function FeedbackList() {
   const [loading, setLoading] = useState(false);
 
   useEffect(() => {
-    async function fetchFeedbacks() {
+    const fetchFeedbacks = async () => {
       setLoading(true);
       const feedbackCollection = collection(db, "feedback");
       const feedbackSnapshot = await getDocs(feedbackCollection);
       const feedbacks = feedbackSnapshot.docs.map((doc) => doc.data());
-      setTimeout(() => {
-        setFeedbackList(feedbacks);
-        setLoading(false);
-      }, 1000);
-    }
-
+      setFeedbackList(feedbacks);
+      setLoading(false);
+    };
+  
     fetchFeedbacks();
   }, []);
+  
 
   return (
     <div className="bg-white h-48 bg-opacity-20 flex p-4 rounded-xl mt-4 overflow-auto">

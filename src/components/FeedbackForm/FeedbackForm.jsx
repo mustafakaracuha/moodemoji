@@ -18,29 +18,32 @@ function FeedbackForm({ onSubmit, onClose }) {
     setComment(value);
   };
 
-  const handleSubmit = () => {
-    if (name.trim() !== "" && comment.trim() !== "") {
-      setLoading(true);
-      const feedbackCollection = collection(db, "feedback");
-      addDoc(feedbackCollection, {
-        name: name,
-        comment: comment,
-        timestamp: serverTimestamp(),
-      })
-        .then(() => {
-          setTimeout(() => {
-            setLoading(false);
-            onSubmit();
-          }, 1000);
-        })
-        .catch((error) => {
-          toast.error("Error sending feedback:", error);
-          toast.error(error.code, error.message);
-        });
-    } else {
+  const handleSubmit = async () => {
+    if (!name.trim() || !comment.trim()) {
       toast.warning("Lütfen ad ve yorum alanlarını doldurun.");
+      return;
+    }
+  
+    setLoading(true);
+    const feedbackCollection = collection(db, "feedback");
+    const feedbackData = {
+      name,
+      comment,
+      timestamp: serverTimestamp(),
+    };
+  
+    try {
+      await addDoc(feedbackCollection, feedbackData);
+      setTimeout(() => {
+        setLoading(false);
+        onSubmit();
+      }, 1000);
+    } catch (error) {
+      toast.error("Geri bildirim gönderirken bir hata oluştu:", error);
+      toast.error(error.code, error.message);
     }
   };
+  
 
   const handleShowFeedbacks = () => {
     setShowFeedbackList(true);
