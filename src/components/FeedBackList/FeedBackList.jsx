@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { ImSpinner9 } from "react-icons/im";
+import { FaCommentSlash } from "react-icons/fa";
 
 import { getFirestore, collection, getDocs } from "firebase/firestore";
 import { initializeApp } from "firebase/app";
@@ -33,7 +34,7 @@ function FeedbackList() {
           <ImSpinner9 size={24} className="text-white animate-spin" />
         </div>
       ) : (
-        <ul>
+        <ul className="w-full">
           {
           feedbackList.length > 0 ?
           feedbackList.map((feedback, index) => (
@@ -41,7 +42,9 @@ function FeedbackList() {
               <strong className="font-bold">{feedback.name} :</strong> {feedback.comment}
             </li>
           )) : 
-          <p>Geri bildirim bulunamadı.</p>
+          <div className="w-full h-full flex items-center justify-center">
+          <FaCommentSlash size={30} className="text-white opacity-40" />
+         </div>
           }
         </ul>
       )}
