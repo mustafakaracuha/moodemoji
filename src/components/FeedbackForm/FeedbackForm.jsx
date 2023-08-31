@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { ImSpinner9 } from "react-icons/im";
+import { CgSpinner } from "react-icons/cg";
 import { AiFillCloseCircle } from "react-icons/ai";
 
 import { toast } from "react-toastify";
@@ -83,7 +83,7 @@ function FeedbackForm({ onSubmit, onClose }) {
           Gönder
           <span className="animate-fade-in">
             {loading && (
-              <ImSpinner9 size={20} className="text-white animate-spin ml-2" />
+              <CgSpinner size={20} className="text-white animate-spin ml-2" />
             )}
           </span>
         </button>

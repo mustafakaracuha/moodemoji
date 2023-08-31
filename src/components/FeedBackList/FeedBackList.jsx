@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { ImSpinner9 } from "react-icons/im";
+import { CgSpinner } from "react-icons/cg";
 import { FaCommentSlash } from "react-icons/fa";
 
 import { getFirestore, collection, getDocs } from "firebase/firestore";
@@ -31,7 +31,7 @@ function FeedbackList() {
     <div className="bg-white h-48 bg-opacity-20 flex p-4 rounded-xl mt-4 overflow-auto">
       {loading ? (
         <div className="w-full h-full flex items-center justify-center">
-          <ImSpinner9 size={24} className="text-white animate-spin" />
+          <CgSpinner size={25} className="text-white animate-spin" />
         </div>
       ) : (
         <ul className="w-full">
