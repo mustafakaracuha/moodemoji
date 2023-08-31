@@ -13,7 +13,7 @@ function Footer() {
         yaşayacaksınız. Mood Emoji ile duygusal dünyanıza yolculuk yapın ve her
         gün daha iyi hissedin.
       </p>
-      <p className="w-screen max-sm:text-[13px] flex items-center justify-center text-white p-3 bg-gradient-to-r from-violet-400 to-violet-600">
+      <p className="w-screen max-sm:text-[10px] flex items-center justify-center text-white p-3 bg-gradient-to-r from-violet-400 to-violet-600">
         <span className="font-normal mr-1">
           Mood Emoji made with 🍦 by Mustafa KARAÇUHA
         </span>
