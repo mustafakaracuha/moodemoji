@@ -3,7 +3,7 @@ import React from "react";
 function Footer() {
   return (
     <footer className="mt-8 text-gray-300 text-center">
-      <p className="text-white max-sm:text-[13px] text-center text-md max-sm:px-5 px-32 mb-2 opacity-60 max-sm:hidden">
+      <p className="text-white max-sm:text-[13px] text-center text-sm max-sm:px-5 px-32 mb-2 opacity-60 max-sm:hidden">
         <span className="font-bold">Mood Emoji</span> Nedir ? <br /> Duygusal
         durumunuzu ifade etmek ve içsel dengeyi bulmak için özel olarak
         tasarlanmış bir uygulamadır. Siz sadece bir emoji seçin, gerisini Mood
